@@ -97,7 +97,3 @@ It then filters, sorts, and reports the best offers.
 ## Disclaimer
 
 This script queries the public API used by the official iGraal extension. It only **reads** offers — it does not automate purchases or affiliate clicks. Check iGraal's Terms of Service before use.
-
-## License
-
-MIT
