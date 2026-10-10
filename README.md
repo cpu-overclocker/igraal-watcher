@@ -10,7 +10,6 @@ Python bot that scans the iGraal catalog and sends Discord notifications:
 
 - Python 3.7 or newer ([python.org](https://www.python.org/downloads/))
 
-That's it.
 
 ## Quick start
 
